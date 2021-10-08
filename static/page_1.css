@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.slidebar{
+  position: fixed;
+  left: -250px;
+  width: 250px;
+  height: 100%;
+  background: #042331;
+  transition: all .5s ease;
+}
+
+.slidebar header{
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+  background: #063146;
+  user-select: none;
+}
+
+.slidebar ul a{
+  display: block;
+  height: 100%;
+  width:100%;
+  line-height: 65px;
+  font-size: 20px;
+  color: white;
+  padding-left: 40px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid black;
+  transition: .4s;
+}
+
+.slidebar ul li:hover a{
+  padding-left: 50px;
+}
+
+.slidebar ul a i{
+  margin-right: 16px;
+}
+
+#check{
+  display: none;
+}
+
+label #btn,label #cancel{
+  position: absolute;
+  cursor: pointer;
+  background: #042331;
+  border-radius: 3px;
+}
+label #btn{
+  left:40px;
+  top: 25px;
+  font-size: 35px;
+  color: white;
+  padding: 6px 12px;
+  transition: all .5s;
+}
+label #cancel{
+  position: fixed;
+  z-index: 1111;
+  left: -195px;
+  top: 17px;
+  font-size: 30px;
+  color: #0a5275;
+  padding: 4px 9px;
+  transition: all .5s ease;
+}
+
+#check:checked ~ .slidebar{
+  left: 0;
+}
+#check:checked ~ label #btn{
+  left: 250px;
+  opacity: 0;
+  pointer-events: none;
+}
+#check:checked ~ label #cancel{
+  left: 195px;
+}
+#check:checked ~ #Home{
+  margin-left: 250px;
+}
+#check:checked ~ #foot{
+  margin-left: 250px;
+}
+
+
+
+
+
+/* #Home{
+  background: url(../Static/pic2.jpg) no-repeat center center/cover;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  height: 718px;
+  align-items: center;
+  transition: all .5s;
+}*/
+
+#Home{
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0, 0, 0, 0.5)), url(../static/bg2.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  transition: all .5s;
+}
+
+/* #Home::before{
+  content: "";
+  background: url(../Static/pic2.jpg) no-repeat center center/cover;
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  opacity: .8;
+  transition: all .5s;
+} */
+#Home .Title{
+  display: flex;
+  margin-top: 60px;
+  font-size: 2.7rem;
+  text-align: center;
+  color: white;
+  border: 1px solid white;
+  border-radius: 7px;
+  padding: 7px;
+  width: 60%;
+  justify-content: center;
+  /* background-color: black; */
+}
+
+#btns{
+  margin-bottom: 16px;
+  width: 100%;
+  height: 569px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn{
+  width: 255px;
+  height: 62px;
+  text-align: center;
+  padding: 7px 0px;
+  border: 2px solid white;
+  background: transparent;
+  margin: 40px 19px;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  color:white;
+  cursor: pointer;
+  font-weight:bolder;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn span{
+  background: white;
+  height: 100%;
+  width: 0;
+  /* border-radius: 20px; */
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+  transition: 0.5s;
+}
+.btn:hover span{
+  width: 100%;
+}
+.btn:hover{
+  opacity: 0.4;
+  color: black;
+}
+
+
+/* Media Icons Section */
+
+.icons{
+  align-items: center;
+  /* margin-top: 45px; */
+  height: 60px;
+  width: 100%;
+  display:flex;
+  justify-content: center;
+}
+
+.icons ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icons ul li{
+  margin: 0px 70px;
+}
+
+.icons ul a{
+  font-size: 20px;
+  color: #eee;
+}
+
+.icons ul a i{
+  margin-right: 12px;
+}
+
+.icons ul li a:hover{
+  /* opacity: 0.4; */
+  color:#337ab7 ;
+}
+
+footer{
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 50px;
+  transition: all .5s;
+  margin-top: 60px;
+}
+
+#foot{
+  color: white;
+  letter-spacing: 1px;
+} 
+/* #foot{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 40px;
+  color: white;
+}  */
+
+
+
+
+/* .btn{
+    padding: 7px 18px;
+    border: 2px solid white;
+    /* background-color: rgba(36, 33, 33, 0.247);
+    background-color:black;
+    margin: 17px;
+    border-radius: 7px;
+    font-size: 1.2rem;
+    color:white;
+    cursor: pointer;
+    font-weight:bolder;
+}
+.btn:hover{
+    color:black;
+    background-color: whitesmoke;
+    border: 2px solid black;
+
+} */

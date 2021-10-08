@@ -1,0 +1,8 @@
+2021-09-23	09:17:54		Tuning Gradient Boosting using Randomized Search cv...
+2021-09-23	09:28:56		Tuning Gradient Boosting using Randomized Search CV Completed!!!
+2021-09-23	09:28:56		Best Parameters obtained by performing RandomizedSearch_cv:
+ {'n_estimators': 2585, 'min_samples_split': 15, 'min_samples_leaf': 32, 'max_features': None, 'max_depth': 3, 'loss': 'huber', 'learning_rate': 0.3, 'alpha': 0.7089473684210525}
+2021-09-23	09:28:56		R2 Score on Training Data: 0.8600427599032323
+2021-09-23	09:28:56		R2 Score on Testing Data: 0.868858080217452
+2021-09-23	09:28:56		Mean Absolute Error(mae) on Testing Data: 1459.4068
+2021-09-23	09:28:56		Root Mean Square Error(rmse) on Testing Data: 4418.5063

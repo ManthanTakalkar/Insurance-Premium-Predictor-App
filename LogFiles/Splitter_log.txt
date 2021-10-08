@@ -1,0 +1,235 @@
+2021-09-20	13:34:32		Dependent features to be scaled down using RobustScaler
+2021-09-20	13:34:32		Dataset to be splitted into Dependent and Independent Features
+2021-09-20	13:34:32		Dataset splitted into Dependent and Independent Features
+2021-09-20	13:34:32		Dependent features scaled down using RobustScaler
+2021-09-20	13:34:32		Dataset to be splitted into Training and Testing Dataset
+2021-09-20	13:34:32		Dataset splitted into Training and Testing Dataset
+2021-09-20	13:38:43		Dependent features to be scaled down using RobustScaler
+2021-09-20	13:38:43		Dataset to be splitted into Dependent and Independent Features
+2021-09-20	13:38:43		Dataset splitted into Dependent and Independent Features
+2021-09-20	13:38:43		Dependent features scaled down using RobustScaler
+2021-09-20	13:38:43		Dataset to be splitted into Training and Testing Dataset
+2021-09-20	13:38:43		Dataset splitted into Training and Testing Dataset
+2021-09-22	20:05:08		The error occurred is :too many values to unpack (expected 2)
+2021-09-22	20:10:23		The error occurred is :too many values to unpack (expected 2)
+2021-09-22	20:13:42		The error occurred is :too many values to unpack (expected 2)
+2021-09-22	20:15:54		The error occurred is :too many values to unpack (expected 2)
+2021-09-22	20:19:10		Dataset to be splitted into Training and Testing Dataset
+2021-09-22	20:19:10		Dataset splitted into Training and Testing Dataset
+2021-09-22	21:08:42		The error occurred is :'NoneType' object is not iterable
+2021-09-22	21:10:10		The error occurred is :'NoneType' object is not iterable
+2021-09-22	21:11:13		Dataset to be splitted into Training and Testing Dataset
+2021-09-22	21:11:13		Dataset splitted into Training and Testing Dataset
+2021-09-22	21:11:29		Dataset to be splitted into Training and Testing Dataset
+2021-09-22	21:11:29		Dataset splitted into Training and Testing Dataset
+2021-09-22	21:11:30		Dataset to be splitted into Training and Testing Dataset
+2021-09-22	21:11:30		Dataset splitted into Training and Testing Dataset
+2021-09-22	21:11:30		Dataset to be splitted into Training and Testing Dataset
+2021-09-22	21:11:30		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:13:29		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:13:29		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:13:31		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:13:31		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:13:31		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:13:31		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:15:46		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:15:46		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:15:46		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:15:46		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:15:46		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:15:46		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:17:55		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:17:55		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:17:55		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:17:55		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:17:55		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:17:55		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:19:25		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:19:25		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:19:26		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:19:26		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:19:26		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:19:26		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:25:57		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:25:57		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:25:58		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:25:58		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:25:58		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:25:58		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:26:53		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:26:53		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:26:53		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:26:53		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:26:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:26:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:29:07		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:29:07		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:29:07		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:29:07		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:29:07		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:29:07		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:29:35		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:29:35		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:29:35		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:29:35		Dataset splitted into Training and Testing Dataset
+2021-09-23	07:29:35		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	07:29:35		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:14:51		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:14:51		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:14:51		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:14:51		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:14:51		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:14:51		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:15:21		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:15:21		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:15:21		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:15:21		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:15:21		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:15:21		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:19:12		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:19:12		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:19:12		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:19:12		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:19:12		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:19:12		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:22:24		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:22:24		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:22:24		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:22:24		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:22:24		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:22:24		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:25:03		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:25:03		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:25:04		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:25:04		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:25:04		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:25:04		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:27:28		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:27:28		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:27:28		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:27:28		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:27:28		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:27:28		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:28:27		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:28:27		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:28:27		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:28:27		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:28:27		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:28:27		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:28:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:28:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:28:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:28:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:28:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:28:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:29:57		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:29:57		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:29:57		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:29:57		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:29:57		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:29:57		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:30:42		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:30:42		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:30:42		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:30:42		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:30:42		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:30:42		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:30:53		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:30:53		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:30:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:30:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:30:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:30:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:49:35		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:49:35		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:49:36		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:49:36		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:49:36		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:49:36		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:51:38		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:51:38		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:51:38		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:51:38		Dataset splitted into Training and Testing Dataset
+2021-09-23	08:51:38		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	08:51:38		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:04:37		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:04:37		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:04:38		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:04:38		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:17:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:17:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:17:54		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:17:54		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:17:55		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:17:55		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:32:50		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:32:50		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:32:50		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:32:50		Dataset splitted into Training and Testing Dataset
+2021-09-23	09:32:50		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	09:32:50		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:34:38		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:34:38		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:34:38		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:34:38		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:34:38		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:34:38		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:35:08		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:35:08		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:35:08		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:35:08		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:35:08		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:35:08		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:36:25		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:36:25		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:36:25		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:36:25		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:36:25		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:36:25		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:37:12		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:37:12		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:37:12		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:37:12		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:37:12		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:37:12		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:38:14		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:38:14		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:38:14		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:38:14		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:39:36		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:39:36		Dataset splitted into Training and Testing Dataset
+2021-09-23	10:39:36		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	10:39:36		Dataset splitted into Training and Testing Dataset
+2021-09-23	11:15:56		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	11:15:56		Dataset splitted into Training and Testing Dataset
+2021-09-23	11:15:56		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	11:15:56		Dataset splitted into Training and Testing Dataset
+2021-09-23	11:16:07		Dataset to be splitted into Training and Testing Dataset
+2021-09-23	11:16:07		Dataset splitted into Training and Testing Dataset
+2021-09-25	14:06:58		Dataset to be split into Training and Testing Dataset
+2021-09-25	14:06:58		Dataset splits into Training and Testing Dataset
+2021-09-25	14:06:58		Dataset to be split into Training and Testing Dataset
+2021-09-25	14:06:58		Dataset splits into Training and Testing Dataset
+2021-09-25	14:07:07		Dataset to be split into Training and Testing Dataset
+2021-09-25	14:07:07		Dataset splits into Training and Testing Dataset
+2021-09-25	14:38:26		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	14:40:02		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	14:46:26		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	14:50:36		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	14:51:19		Dataset to be split into Training and Testing Dataset
+2021-09-25	14:51:19		Dataset splits into Training and Testing Dataset
+2021-09-25	14:51:19		Dataset to be split into Training and Testing Dataset
+2021-09-25	14:51:19		Dataset splits into Training and Testing Dataset
+2021-09-25	14:51:33		Dataset to be split into Training and Testing Dataset
+2021-09-25	14:51:33		Dataset splits into Training and Testing Dataset
+2021-09-25	16:24:25		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	16:58:07		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	16:59:28		The error occurred is :too many values to unpack (expected 2)
+2021-09-25	16:59:44		Dataset to be split into Training and Testing Dataset
+2021-09-25	16:59:44		Dataset splits into Training and Testing Dataset
+2021-09-25	17:01:03		Dataset to be split into Training and Testing Dataset
+2021-09-25	17:01:03		Dataset splits into Training and Testing Dataset
+2021-09-25	17:01:03		Dataset to be split into Training and Testing Dataset
+2021-09-25	17:01:03		Dataset splits into Training and Testing Dataset
+2021-09-25	17:01:13		Dataset to be split into Training and Testing Dataset
+2021-09-25	17:01:13		Dataset splits into Training and Testing Dataset

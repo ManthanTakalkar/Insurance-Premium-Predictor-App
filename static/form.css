@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.slidebar{
+    position: fixed;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    background: #042331;
+    transition: all .5s ease;
+}
+  
+.slidebar header{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    background: #063146;
+    user-select: none;
+}
+  
+.slidebar ul a{
+    display: block;
+    height: 100%;
+    width:100%;
+    line-height: 65px;
+    font-size: 20px;
+    color: white;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-top: 1px solid rbga(255,255,255,.1);
+    border-bottom: 1px solid black;
+    transition: .4s;
+}
+  
+.slidebar ul li:hover a{
+    padding-left: 50px;
+}
+  
+.slidebar ul a i{
+    margin-right: 16px;
+}
+  
+#check{
+    display: none;
+}
+  
+label #btn,label #cancel{
+    position: absolute;
+    cursor: pointer;
+    background: #042331;
+    border-radius: 3px;
+}
+label #btn{
+    position: fixed;
+    left:40px;
+    top: 25px;
+    font-size: 35px;
+    color: white;
+    padding: 6px 12px;
+    transition: all .5s;
+}
+label #cancel{
+    position: fixed;
+    z-index: 1111;
+    left: -195px;
+    top: 17px;
+    font-size: 30px;
+    color: #0a5275;
+    padding: 4px 9px;
+    transition: all .5s ease;
+}
+  
+#check:checked ~ .slidebar{
+    left: 0;
+}
+#check:checked ~ label #btn{
+    left: 250px;
+    opacity: 0;
+    pointer-events: none;
+}
+#check:checked ~ label #cancel{
+    left: 195px;
+}
+#check:checked ~ .Home{
+    margin-left: 250px;
+}
+
+#check:checked ~ footer{
+    margin-left: 250px;
+}
+
+  
+.Home{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,.7)),url(../static/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    transition: all .5s;
+}
+  
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    font-weight: bold;
+}
+#form-item .ip{
+   width: 100%;
+   padding: .5rem;
+   border-radius: 9px;
+   border: 2px solid black;
+   font-size: 1.1rem;
+   outline: none;
+}
+#form-item select{
+   width: 103%;
+   padding: .5rem;
+   border-radius: 9px;
+   border: 2px solid black;
+   font-size: 1.1rem;
+   outline: none;
+}
+#form-item{
+   margin-top: 21px;
+}
+
+#box form{
+    width: 44%;
+}
+#box label{
+   font-size: 1.1rem;
+   font-weight: bold;
+   /* color: white; */
+   margin-bottom: 12px;
+}
+
+.h-primary{
+    font-size: 2.6rem;
+    padding: 12px;
+    text-align: center;
+    margin-bottom: 35px;
+    color: white;
+}
+
+h1{
+    text-decoration: underline;
+}
+#btns{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.btn{
+    width: 200px;
+    text-align: center;
+    padding: 7px 0px;
+    border: 2px solid #048d7f;
+    background: transparent;
+    margin: 40px 19px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    color:white;
+    cursor: pointer;
+    font-weight:bolder;
+    position: relative;
+    overflow: hidden;
+    opacity: 0.9;
+}
+
+.btn span{
+    background: #009688;
+    height: 100%;
+    width: 0;
+    border-radius: 20px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.5s;
+}
+.btn:hover span{
+    width: 100%;
+}
+.btn:hover{
+    border: none;
+}
+
+.btn a{
+    color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    transition: all 0.5s;
+}
+
+#foot{
+    text-align: center;
+} 

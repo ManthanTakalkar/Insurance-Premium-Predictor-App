@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.slidebar{
+    position: fixed;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    background: #042331;
+    transition: all .5s ease;
+}
+  
+.slidebar header{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    background: #063146;
+    user-select: none;
+}
+  
+.slidebar ul a{
+    display: block;
+    height: 100%;
+    width:100%;
+    line-height: 65px;
+    font-size: 20px;
+    color: white;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-top: 1px solid rbga(255,255,255,.1);
+    border-bottom: 1px solid black;
+    transition: .4s;
+}
+  
+.slidebar ul li:hover a{
+    padding-left: 50px;
+}
+  
+.slidebar ul a i{
+    margin-right: 16px;
+}
+  
+#check{
+    display: none;
+}
+  
+label #btn,label #cancel{
+    position: absolute;
+    cursor: pointer;
+    background: #042331;
+    border-radius: 3px;
+}
+label #btn{
+    position: fixed;
+    left:40px;
+    top: 25px;
+    font-size: 35px;
+    color: white;
+    padding: 6px 12px;
+    transition: all .5s;
+}
+label #cancel{
+    position: fixed;
+    z-index: 1111;
+    left: -195px;
+    top: 17px;
+    font-size: 30px;
+    color: #0a5275;
+    padding: 4px 9px;
+    transition: all .5s ease;
+}
+  
+#check:checked ~ .slidebar{
+    left: 0;
+}
+#check:checked ~ label #btn{
+    left: 250px;
+    opacity: 0;
+    pointer-events: none;
+}
+#check:checked ~ label #cancel{
+    left: 195px;
+}
+#check:checked ~ #Home{
+    margin-left: 250px;
+}
+
+#check:checked ~ footer{
+    margin-left: 250px;
+}
+
+#Home{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.6)),url(../static/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 0px;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .5s;
+}
+
+
+h1{
+    color: white;
+    margin-bottom: 70px
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    transition: all 0.5s;
+}
+
+#foot{
+    text-align: center;
+} 
+
+/* #foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 40px;
+    color: white;
+} */

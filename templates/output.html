@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Output</title>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="../static/output.css">
+</head>
+<body>
+    <input type="checkbox" id="check">
+    <label for="check">
+        <i class="fas fa-bars" id="btn"></i>
+        <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="slidebar">
+        <header>My App</header>
+        <ul>
+            <li><a href="{{ url_for ('homepage') }}" methods ="GET"><i class ="fas fa-qrcode"></i>Home</a></li>
+            <li><a href="{{url_for ('form')}}" methods="GET"><i class ="fas fa-link"></i>Back To Predictor</a></li>
+            <li><a href="{{url_for ('about')}}" methods="GET"><i class ="far fa-question-circle"></i>About</a></li>
+            <li><a href="{{url_for ('developer')}}" methods="GET"><i class ="far fa-envelope"></i>Contact</a></li>
+        </ul>
+    </div>
+
+    <section id="Home">
+        <div class="output">
+            <h1>{{result}}</h1>
+        </div>
+    </section>
+
+    <footer>
+        <div id="foot">
+            Copyright © 2021 Insurance Premium Predictor | All rights reserved!
+        </div>
+    </footer>
+</body>
+</html>

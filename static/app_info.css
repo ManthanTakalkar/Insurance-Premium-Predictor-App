@@ -1,0 +1,76 @@
+body
+{
+    background-image:url("bg3.jpg");
+    height: 1030px; /* You must set a specified height */
+    width:1450px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size:cover;
+    background-position: left;
+    margin:auto;
+}
+
+body .title
+{
+color:#000;
+font-family:calibri;
+font-size:45;
+text-align:center;
+text-shadow: 1px 1px #000000;
+text-transform:uppercase;
+}
+
+a{
+font-family : calibri;
+font-size:20px;
+text-decoration:none;
+color:black;
+padding-right:97.7%;
+}
+
+
+.back-page
+{
+font-weight:bold;
+margin-top:-2%;
+position:absolute;
+}
+
+.benefits ul li{
+    padding: 5px 0px;
+}
+
+.button
+{
+border-radius:20px;
+text-align:center;
+font-size:20px;
+font-weight:bold;
+text-transform:uppercase;
+background-color:white;
+box-shadow: 2.2px 2.2px #703517;
+position:absolute;
+font-family:calibri;
+border: 2px solid black;
+}
+
+.button:hover
+{
+background-color: rgb(43 165 168);
+
+}
+
+.Content
+{
+    font-weight:bold;
+}
+
+.foot
+{
+color:#000;
+font-size:20px;
+font-family:calibri;
+font-weight:bold;
+text-align:center;
+margin-top:2%;
+}

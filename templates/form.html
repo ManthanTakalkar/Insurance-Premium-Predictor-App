@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictor</title>
+    <link rel="stylesheet" href="../static/form.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+        type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+</head>
+
+<body>
+    <input type="checkbox" id="check">
+    <label for="check">
+        <i class="fas fa-bars" id="btn"></i>
+        <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="slidebar">
+        <header>My App</header>
+        <ul>
+            <li><a href="{{url_for ('homepage') }}" methods='GET'><i class="fas fa-qrcode"></i>Home</a></li>
+            <li><a href="{{url_for ('about')}}" methods="GET"><i class="far fa-question-circle"></i>About</a></li>
+            <li><a href="{{url_for ('developer')}}" methods="GET"><i class="far fa-envelope"></i>Contact</a></li>
+        </ul>
+    </div>
+
+    <section class="Home">
+        <section id="form">
+            <h1 class="h-primary">Input Fields</h1>
+            <div id="box">
+                <form action="{{url_for ('predict')}}" method="POST">
+                    <div id="form-item">
+                        <label for="Age">Age (Range between 18 to 60):</label>
+                        <input class="ip" type="number" name='Age' id="Age" min="18" max="60" placeholder="Enter Your Value"
+                            required="required" step="any">
+                    </div>
+                    <div id="form-item">
+                        <label for="Gender">Gender (Male / Female) : </label>
+                        <select name="gender" id="Gender">
+                            <option value="male">male</option>
+                            <option value="female">female</option>
+                        </select>
+                    </div>
+                    <div id="form-item">
+                        <label for="BMI">BMI (Range between 18 to 50):</label>
+                        <input class="ip" type="number" name='bmi' id="BMI" min="18" max="50" placeholder="Enter Your Value"
+                            required="required" step="any">
+                    </div>
+                    <div id="form-item">
+                        <label for="Children">Children (Range between 0 to 5):</label>
+                        <input class="ip" type="number" name='children' id="Children" min="0" max="5" placeholder="Enter Your Value"
+                            required="required" step="any">
+                    </div>
+                    <div id="form-item">
+                        <label for="smoke">Smoker (yes/no) : </label>
+                        <select name="smoker" id="smoke">
+                            <option value="yes">yes</option>
+                            <option value="no">no</option>
+                        </select>
+                    </div>
+                    <div id="form-item">
+                        <label for="Region">Region: </label>
+                        <select name="region" id="Region">
+                            <option value="northeast" >northeast</option>
+                            <option value="northwest" >northwest</option>
+                            <option value="southeast" >southeast</option>
+                            <option value="southwest" >southwest</option>
+                        </select>
+                    </div>
+                   
+                    <div id="btns">
+                        <button class="btn" type="reset"><span></span> Reset</button>
+                        <a href="{{ url_for ('predict') }}"  methods = "GET">
+                            <button class="btn" type="submit"><span></span>Predict</button>
+                        </a>
+                        <!-- <button class="btn" type="submit"><span></span>Predict</button> -->
+                    </div>
+                </form>
+            </div>
+        </section>
+    </section>
+
+    <footer>
+        <div id="foot">
+            Copyright © 2021 Insurance Premium Predictor | All rights reserved!
+        </div>
+    </footer>
+</body>
+
+</html>

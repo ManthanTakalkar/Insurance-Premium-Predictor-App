@@ -1,0 +1,176 @@
+2021-09-22	21:11:30		Accessing Training Dataset And Testing Dataset
+2021-09-22	21:11:30		Accessed Training Dataset And Testing Dataset
+2021-09-22	21:11:30		started Model Training using Gradient Boosting Regressor...
+2021-09-22	21:11:30		Accessing Training Dataset And Testing Dataset
+2021-09-22	21:11:30		Accessed Training Dataset And Testing Dataset
+2021-09-22	21:11:31		Completed Model Training!!!
+2021-09-22	21:11:31		R2 Score on Training Data: 0.9053298144851848
+2021-09-22	21:11:31		R2 Score on Testing Data: 0.8650867001191582
+2021-09-23	07:13:31		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:13:31		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:13:31		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:13:31		Completed Model Training!!!
+2021-09-23	07:13:31		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:13:31		R2 Score on Testing Data: 0.8648522748514397
+2021-09-23	07:15:46		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:15:46		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:15:46		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:15:46		Completed Model Training!!!
+2021-09-23	07:15:46		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:15:46		R2 Score on Testing Data: 0.8643090458084358
+2021-09-23	07:17:55		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:17:55		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:17:55		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:17:56		Completed Model Training!!!
+2021-09-23	07:17:56		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:17:56		R2 Score on Testing Data: 0.8652770779467751
+2021-09-23	07:19:26		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:19:26		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:19:26		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:19:26		Completed Model Training!!!
+2021-09-23	07:19:26		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:19:26		R2 Score on Testing Data: 0.8642292808414612
+2021-09-23	07:25:58		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:25:58		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:25:58		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:25:58		Completed Model Training!!!
+2021-09-23	07:25:58		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:25:58		R2 Score on Testing Data: 0.8652023070254204
+2021-09-23	07:26:53		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:26:53		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:26:54		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:26:54		Completed Model Training!!!
+2021-09-23	07:26:54		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:26:54		R2 Score on Testing Data: 0.8648203234934639
+2021-09-23	07:29:07		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:29:07		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:29:07		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:29:07		Completed Model Training!!!
+2021-09-23	07:29:07		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:29:08		R2 Score on Testing Data: 0.8647637987818785
+2021-09-23	07:29:35		started Model Training using Gradient Boosting Regressor...
+2021-09-23	07:29:35		Accessing Training Dataset And Testing Dataset
+2021-09-23	07:29:35		Accessed Training Dataset And Testing Dataset
+2021-09-23	07:29:35		Completed Model Training!!!
+2021-09-23	07:29:35		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	07:29:35		R2 Score on Testing Data: 0.8648787272705847
+2021-09-23	08:14:51		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:14:51		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:14:51		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:14:51		Completed Model Training!!!
+2021-09-23	08:14:51		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:14:51		R2 Score on Testing Data: 0.8646760030511245
+2021-09-23	08:15:21		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:15:21		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:15:21		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:15:21		Completed Model Training!!!
+2021-09-23	08:15:21		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:15:21		R2 Score on Testing Data: 0.8652023070254204
+2021-09-23	08:19:12		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:19:12		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:19:12		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:19:12		Completed Model Training!!!
+2021-09-23	08:19:12		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:19:12		R2 Score on Testing Data: 0.8641888227597847
+2021-09-23	08:22:24		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:22:24		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:22:24		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:22:24		Completed Model Training!!!
+2021-09-23	08:22:24		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:22:24		R2 Score on Testing Data: 0.8643991574806473
+2021-09-23	08:25:04		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:25:04		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:25:04		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:25:04		Completed Model Training!!!
+2021-09-23	08:25:04		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:25:04		R2 Score on Testing Data: 0.8647955476822193
+2021-09-23	08:27:28		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:27:28		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:27:28		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:27:28		Completed Model Training!!!
+2021-09-23	08:27:28		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:27:28		R2 Score on Testing Data: 0.8643998358982035
+2021-09-23	08:28:27		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:28:27		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:28:27		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:28:27		Completed Model Training!!!
+2021-09-23	08:28:27		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:28:27		R2 Score on Testing Data: 0.8643998358982035
+2021-09-23	08:28:54		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:28:54		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:28:54		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:28:55		Completed Model Training!!!
+2021-09-23	08:28:55		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:28:55		R2 Score on Testing Data: 0.8650873785367144
+2021-09-23	08:29:57		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:29:57		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:29:57		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:29:57		Completed Model Training!!!
+2021-09-23	08:29:57		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:29:57		R2 Score on Testing Data: 0.8643484766774553
+2021-09-23	08:30:42		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:30:42		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:30:42		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:30:43		Completed Model Training!!!
+2021-09-23	08:30:43		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:30:43		R2 Score on Testing Data: 0.8643998358982035
+2021-09-23	08:30:54		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:30:54		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:30:54		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:30:54		Completed Model Training!!!
+2021-09-23	08:30:54		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:30:54		R2 Score on Testing Data: 0.8650867001191582
+2021-09-23	08:49:36		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:49:36		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:49:36		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:49:36		Completed Model Training!!!
+2021-09-23	08:49:36		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:49:36		R2 Score on Testing Data: 0.8646015543320261
+2021-09-23	08:51:38		started Model Training using Gradient Boosting Regressor...
+2021-09-23	08:51:38		Accessing Training Dataset And Testing Dataset
+2021-09-23	08:51:38		Accessed Training Dataset And Testing Dataset
+2021-09-23	08:51:39		Completed Model Training!!!
+2021-09-23	08:51:39		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	08:51:39		R2 Score on Testing Data: 0.8644644323788184
+2021-09-23	09:04:37		started Model Training using Gradient Boosting Regressor...
+2021-09-23	09:04:37		Accessing Training Dataset And Testing Dataset
+2021-09-23	09:04:38		Accessed Training Dataset And Testing Dataset
+2021-09-23	09:04:38		Completed Model Training!!!
+2021-09-23	09:04:38		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	09:04:38		R2 Score on Testing Data: 0.8638632834535785
+2021-09-23	09:17:54		started Model Training using Gradient Boosting Regressor...
+2021-09-23	09:17:54		Accessing Training Dataset And Testing Dataset
+2021-09-23	09:17:55		Accessed Training Dataset And Testing Dataset
+2021-09-23	09:17:55		Completed Model Training!!!
+2021-09-23	09:17:55		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	09:17:55		R2 Score on Testing Data: 0.8652023070254204
+2021-09-23	09:32:50		started Model Training using Gradient Boosting Regressor...
+2021-09-23	09:32:50		Accessing Training Dataset And Testing Dataset
+2021-09-23	09:32:50		Accessed Training Dataset And Testing Dataset
+2021-09-23	09:32:50		Completed Model Training!!!
+2021-09-23	09:32:50		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	09:32:50		R2 Score on Testing Data: 0.8646760030511245
+2021-09-23	10:34:38		started Model Training using Gradient Boosting Regressor...
+2021-09-23	10:34:38		Accessing Training Dataset And Testing Dataset
+2021-09-23	10:34:38		Accessed Training Dataset And Testing Dataset
+2021-09-23	10:34:38		Completed Model Training!!!
+2021-09-23	10:34:38		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	10:34:38		R2 Score on Testing Data: 0.8647637987818785
+2021-09-23	10:35:08		started Model Training using Gradient Boosting Regressor...
+2021-09-23	10:35:08		Accessing Training Dataset And Testing Dataset
+2021-09-23	10:35:08		Accessed Training Dataset And Testing Dataset
+2021-09-23	10:35:08		Completed Model Training!!!
+2021-09-23	10:35:08		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	10:35:08		R2 Score on Testing Data: 0.8647955476822193
+2021-09-23	10:36:25		started Model Training using Gradient Boosting Regressor...
+2021-09-23	10:36:25		Accessing Training Dataset And Testing Dataset
+2021-09-23	10:36:25		Accessed Training Dataset And Testing Dataset
+2021-09-23	10:36:25		Completed Model Training!!!
+2021-09-23	10:36:25		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	10:36:25		R2 Score on Testing Data: 0.8638639618711347
+2021-09-23	10:37:12		started Model Training using Gradient Boosting Regressor...
+2021-09-23	10:37:12		Accessing Training Dataset And Testing Dataset
+2021-09-23	10:37:12		Accessed Training Dataset And Testing Dataset
+2021-09-23	10:37:12		Completed Model Training!!!
+2021-09-23	10:37:12		R2 Score on Training Data: 0.9053298144851848
+2021-09-23	10:37:12		R2 Score on Testing Data: 0.8643090458084358
