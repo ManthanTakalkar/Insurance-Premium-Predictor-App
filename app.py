@@ -8,7 +8,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-con = psycopg2.connect(host="ec2-34-205-14-168.compute-1.amazonaws.com", port='5432', user="hcpaffdjgjoqjm", password="1efa270a9325941f5cb8eef126669fec624a1dc83bb8570e36d03d7cecbef6c2", database="deg958qtv6377b")
+con = psycopg2.connect(host="ec2-54-164-22-242.compute-1.amazonaws.com", port='5432', user="aybobrosixlybq", password="587d5f01c1d0490a914659179415d32551d1e297411998276c7a0a5e0422f5d1", database="dedq6ael2chsp0")
 cur = con.cursor()
 
 cur.execute('create table if not exists insurance(age int, gender varchar(15),bmi NUMERIC(5,2), children int,smoker varchar(15), region varchar(25), expenses NUMERIC)')
