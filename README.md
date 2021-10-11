@@ -18,17 +18,6 @@ The web application created will predict the amount of insurance Premium which w
 the user to choose appropriate health insurance policy based on his/her current health
 situation.
 
-# ➣ Database Used 🛢
-Heroku PostgreSQL
-
-# ➣ Cloud Platform Used ☁
-Heroku Cloud Platform
-
-# ➣ APP Info
-The web application will predict the rough estimate of Insurance cost based on certain features like age, bmi, gender,smoker,etc.
-
-Which will help an individual user to select appropriate insurance policy.
-
 # ➣ Tech-Stack/Libraries Used
 
 1.Python - 3.7+
@@ -44,6 +33,20 @@ Which will help an individual user to select appropriate insurance policy.
 6.Flask - 1.1.1
 
 7.Pickle - 1.0.2
+
+![Screenshot (247)](https://user-images.githubusercontent.com/69085978/136778583-79eabf59-dca7-46d4-b683-95aac9b55066.png)
+
+# ➣ Database Used 🛢
+Heroku PostgreSQL
+
+# ➣ Cloud Platform Used ☁
+Heroku Cloud Platform
+
+# ➣ APP Info
+The web application will predict the rough estimate of Insurance cost based on certain features like age, bmi, gender,smoker,etc.
+
+Which will help an individual user to select appropriate insurance policy.
+
 
 # ➣ Contributor
 Manthan Kailas Takalkar
