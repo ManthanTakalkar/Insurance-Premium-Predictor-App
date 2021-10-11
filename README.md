@@ -10,19 +10,19 @@ You can download the dataset from the link mentioned below
 
 🔗 https://www.kaggle.com/noordeen/insurance-premium-prediction
 
-# ➣ Domain
+# ➣ Domain 🩹
 This project belongs to **Insurance Domain**
 
-# ➣ Proposed Solution 
+# ➣ Proposed Solution 📋
 The web application created will predict the amount of insurance Premium which will help
 the user to choose appropriate health insurance policy based on his/her current health
 situation.
 
-# ➣ Application Link
+# ➣ Application Link 🔗
 **Insurance-Premium-Predictor** : 🔗 https://dirgh-aayusha.herokuapp.com/
 
 
-# ➣ Tech-Stack/Libraries Used
+# ➣ Tech-Stack/Libraries Used 🧾
 
 1.Python - 3.7+
 
@@ -47,17 +47,17 @@ Heroku PostgreSQL
 # ➣ Cloud Platform Used ☁
 Heroku Cloud Platform
 
-# ➣ Descriptive Video
+# ➣ Descriptive Video 📹
 
 https://user-images.githubusercontent.com/69085978/136780435-08d3ce08-7f80-4825-a027-3d5fe219bdb3.mp4
 
-# ➣ App Info
+# ➣ App Info 📝
 The web application will predict the rough estimate of Insurance cost based on certain features like age, bmi, gender,smoker,etc.
 
 Which will help an individual user to select appropriate insurance policy.
 
+# ➣ Contributors/Authors 👨‍💻
 
-# ➣ Contributor
 **Manthan Kailas Takalkar**
 
 LinkedIn :- 🔗 https://www.linkedin.com/in/manthan-takalkar-62969a213/
