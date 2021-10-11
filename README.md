@@ -42,7 +42,7 @@ Heroku PostgreSQL
 # ➣ Cloud Platform Used ☁
 Heroku Cloud Platform
 
-# ➣ APP Info
+# ➣ App Info
 The web application will predict the rough estimate of Insurance cost based on certain features like age, bmi, gender,smoker,etc.
 
 Which will help an individual user to select appropriate insurance policy.
