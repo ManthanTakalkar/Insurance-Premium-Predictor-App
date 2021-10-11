@@ -4,35 +4,41 @@ need based on their individual health situation. After that, customers can work 
 health insurance carrier and its plans and perks while keeping the projected cost from our
 study in mind. This can assist a person in concentrating on the health side of an insurance
 policy rather has the ineffective part.
-#
+
 # ➣ Dataset 📂 
-You can download the datasset from the link mentioned below
+You can download the dataset from the link mentioned below
 
 🔗 https://www.kaggle.com/noordeen/insurance-premium-prediction
-#
+
 # ➣ Domain
 This project belongs to Insurance Domain
-#
+
 # ➣ Proposed Solution 
 The web application created will predict the amount of insurance Premium which will help
 the user to choose appropriate health insurance policy based on his/her current health
 situation.
-#
-# ➣ Database Used
+
+# ➣ Database Used 🛢
 Heroku PostgreSQL
-#
-# ➣ Cloud Platform Used
-Heroku
-#
+
+# ➣ Cloud Platform Used ☁
+Heroku Cloud Platform
+
 # ➣ APPInfo
 The web application will predict the rough estimate of Insurance cost based on certain features like age, bmi, gender,smoker,etc.
 
 Which will help an individual user to select appropriate insurance policy.
-#
+
 # ➣ Contributor
 Manthan Kailas Takalkar
 
-LinkedIn :-🔗 https://www.linkedin.com/in/manthan-takalkar-62969a213/
+LinkedIn :- 🔗 https://www.linkedin.com/in/manthan-takalkar-62969a213/
 
-➣
-➣
+Adityaraj Chaudhari
+
+LinkedIn : 🔗 https://www.linkedin.com/in/adityaraj-chaudhari-4450701b9/
+
+# ➣ Application Link
+Insurance-Premium-Predictor : 🔗 https://dirgh-aayusha.herokuapp.com/
+
+# THANKS FOR VISITING THE REPOSITORY☺. IF THERE ARE ANY SUGGESTIONS OR CHANGES TO BE MADE CONTACT US ON THE PLATFORM MENTIONED ABOVE😉
