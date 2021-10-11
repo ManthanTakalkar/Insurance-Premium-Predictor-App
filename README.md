@@ -11,12 +11,16 @@ You can download the dataset from the link mentioned below
 🔗 https://www.kaggle.com/noordeen/insurance-premium-prediction
 
 # ➣ Domain
-This project belongs to Insurance Domain
+This project belongs to **Insurance Domain**
 
 # ➣ Proposed Solution 
 The web application created will predict the amount of insurance Premium which will help
 the user to choose appropriate health insurance policy based on his/her current health
 situation.
+
+# ➣ Application Link
+**Insurance-Premium-Predictor** : 🔗 https://dirgh-aayusha.herokuapp.com/
+
 
 # ➣ Tech-Stack/Libraries Used
 
@@ -50,15 +54,12 @@ Which will help an individual user to select appropriate insurance policy.
 
 
 # ➣ Contributor
-Manthan Kailas Takalkar
+**Manthan Kailas Takalkar**
 
 LinkedIn :- 🔗 https://www.linkedin.com/in/manthan-takalkar-62969a213/
 
-Adityaraj Chaudhari
+**Adityaraj Hemant Chaudhari**
 
 LinkedIn : 🔗 https://www.linkedin.com/in/adityaraj-chaudhari-4450701b9/
-
-# ➣ Application Link
-Insurance-Premium-Predictor : 🔗 https://dirgh-aayusha.herokuapp.com/
 
 # THANKS FOR VISITING THE REPOSITORY☺. IF THERE ARE ANY SUGGESTIONS OR CHANGES TO BE MADE CONTACT US ON THE PLATFORM MENTIONED ABOVE😉
