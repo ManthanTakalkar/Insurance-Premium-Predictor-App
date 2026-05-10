@@ -8,8 +8,10 @@ import pandas as pd
 
 app = Flask(__name__)
 
-con = psycopg2.connect(host="ec2-54-164-22-242.compute-1.amazonaws.com", port='5432', user="aybobrosixlybq", password="587d5f01c1d0490a914659179415d32551d1e297411998276c7a0a5e0422f5d1", database="dedq6ael2chsp0")
+DATABASE_URL = os.getenv("DATABASE_URL")
+con = psycopg2.connect(DATABASE_URL, sslmode='require')
 cur = con.cursor()
+print("DB Connected")
 
 cur.execute('create table if not exists insurance(age int, gender varchar(15),bmi NUMERIC(5,2), children int,smoker varchar(15), region varchar(25), expenses NUMERIC)')
 con.commit()
