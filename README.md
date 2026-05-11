@@ -19,12 +19,12 @@ the user to choose appropriate health insurance policy based on his/her current 
 situation.
 
 # ➣ Application Link 🔗
-**Insurance-Premium-Predictor** : 🔗 https://dirgh-aayusha.herokuapp.com/
+**Insurance-Premium-Predictor** : 🔗 https://insurance-premium-predictor-app.onrender.com
 
 
 # ➣ Tech-Stack/Libraries Used 🧾
 
-1.Python - 3.7+
+1.Python - 3.9+
 
 2.Numpy  - 1.19.1
 
@@ -42,10 +42,10 @@ situation.
 
 
 # ➣ Database Used 🛢
-Heroku PostgreSQL
+PostgreSQL
 
 # ➣ Cloud Platform Used ☁
-Heroku Cloud Platform
+Render Cloud Platform
 
 # ➣ Descriptive Video 📹
 
