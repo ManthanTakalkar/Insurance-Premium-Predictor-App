@@ -90,7 +90,7 @@ def predict():
         cur.execute(f'insert into insurance values{(col1, col2, col3, col4, col5, col6, round(predict1[0],2))}')
         con.commit()
 
-        return render_template('output.html', result=f"Your Insurance Premium is: {round(predict1[0],2)}")
+        return render_template('output.html', result=f"Your Insurance Premium is: {round(predict1[0],2)} USD per year.")
 
     else:
         return render_template('page1.html')
